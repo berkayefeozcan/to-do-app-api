@@ -1,4 +1,4 @@
-# to-do-app-api
+# Restfull Api - To Do List 
 Bu restful API CRUD (Create Read Update Delete) işlemlerini gerçekleştirir.
 
 ## Kullanılan Teknolojiler 
