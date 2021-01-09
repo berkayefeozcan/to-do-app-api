@@ -12,6 +12,7 @@ Bu restful API CRUD (Create Read Update Delete) işlemlerini gerçekleştirir.
 ## Projenin calistirilmasi 
 - API icin Restfull-API dizininin icerisindeyken npm run start komutu calistirilmali
 - React icin React dizininin icerinde npm run start yapilmalidir.
+- Web sayfasina  http://localhost:3000/ urli ile ulasilir.  
 
 
 ## API kullanımı 
