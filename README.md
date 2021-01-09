@@ -10,7 +10,7 @@ Bu restful API CRUD (Create Read Update Delete) işlemlerini gerçekleştirir.
 - Ayrica React dizininde npm install komutu calistrilmalidir. Boylece React icin bagimliliklar kurulacaktir.
 
 ## Projenin calistirilmasi 
-- API icin server dizininin icerisindeyken npm run start komutu calistirilmali
+- API icin Restfull-API dizininin icerisindeyken npm run start komutu calistirilmali
 - React icin React dizininin icerinde npm run start yapilmalidir.
 
 
